@@ -7,3 +7,8 @@ A beginner level Python tutorial with exercises to walk through the basic concep
 3. Loops
 4. Arrays
 5. Methods
+
+## Python Help
+Write your Python program in a file called *filename*.py
+
+Run the program by typing `python3 filename.py`

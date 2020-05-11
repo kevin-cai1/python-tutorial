@@ -24,7 +24,7 @@ A variable can have a short name (like x and y) or a more descriptive name (age,
 - A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 - Variable names are case-sensitive (age, Age and AGE are three different variables)
 
-Variables can be referenced by their name.
+You can access the value of a variable by referencing the variable by name.
 
 ### Setting Variables:
 ```
